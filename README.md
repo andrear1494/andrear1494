@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hi, I’m Andrea!
+I’m Andrea!
 
 I’m a graduate of the 8-month practical Data Analytics course from LSE, with hands-on experience in various data tools for cleaning, analyzing, and visualizing data to drive decision-making and change.
 I am proficient in Python, SQL, Tableau, SPSS, and Excel, with intermediate skills in R. Recently, I completed a challenging and innovative project with PureGym, where I applied my skills to deliver actionable insights.
