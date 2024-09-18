@@ -1,10 +1,23 @@
-## Hi there 👋
-I’m Andrea!
+## 👋 Hi, I'm Andrea!
 
-I’m a graduate of the 8-month practical Data Analytics course from LSE, with hands-on experience in various data tools for cleaning, analyzing, and visualizing data to drive decision-making and change. 
-I am proficient in Python, SQL, Tableau, SPSS, and Excel, with intermediate skills in R. Recently, I completed a challenging and innovative project with PureGym, where I applied my skills to deliver actionable insights.
+## 🚀 About Me
+🎓 Graduate of the LSE Data Analytics Postgraduate Programme  
+🔍 Passionate about uncovering actionable insights and solving complex problems through data  
+💼 Hands-on experience in data analysis, visualization, and decision-making  
+💡 Strong background in **Python, Excel SQL, Tableau, SPSS**, with a deep interest in machine learning and AI  
 
-I’m eager to apply my expertise to exciting new data roles and always looking for opportunities to expand my knowledge and skills. Whether working in a team or independently, I’m motivated by discovering new insights and using data to solve complex problems.
+🔧 **Technical Skills**: 
+- **Languages**: Python, SQL, R  
+- **Data Analysis**: Pandas, NumPy, SPSS, Tidyverse, MS Excel  
+- **Visualization**: Tableau, ggplot2, Matplotlib, Seaborn  
+- **Machine Learning & Predictive Modeling**:  
+  - **Algorithms**: K-Means Clustering, Decision Trees, Random Forest, Logistic Regression, Linear Regression  
+  - **Libraries**: Scikit-learn, Statsmodels
+- **NLP**: TextBlob, VADER, spaCy  
+- **Version Control**: Git, GitHub  
+- **Databases**: PostgreSQL
+
+🚀 **Recent Project**: Delivered actionable insights for **PureGym**, leveraging advanced data analytics to help optimize timetable across 10 of their centres and their marketing strategies. 
 
 ## 🤝 Let's connect 
 - 👜 [LinkedIn](https://www.linkedin.com/in/andrea-rossi-4402a8177/)
