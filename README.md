@@ -7,10 +7,8 @@ I am proficient in Python, SQL, Tableau, SPSS, and Excel, with intermediate skil
 I’m eager to apply my expertise to exciting new data roles and always looking for opportunities to expand my knowledge and skills. Whether working in a team or independently, I’m motivated by discovering new insights and using data to solve complex problems.
 
 ## 🤝 Let's connect 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = 'https://www.linkedin.com/in/andrea-rossi-4402a8177/'
+- 👜 [LinkedIn](https://www.linkedin.com/in/an)
+- 📧 [Email](rossiandmail@gmail.com)
 
 <!--
 **andrear1494/andrear1494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
