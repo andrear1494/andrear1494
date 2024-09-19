@@ -3,7 +3,7 @@
 ## 🚀 About Me
 🎓 Graduate of the LSE Data Analytics Postgraduate Programme  
 🔍 Passionate about uncovering actionable insights and solving complex problems through data  
-💼 Hands-on experience in data analysis, visualization, and decision-making  
+💼 Hands-on experience in data analysis and visualization to support decision-making  
 💡 Strong background in **Python, Excel SQL, Tableau, SPSS**, with a deep interest in machine learning and AI  
 
 🔧 **Technical Skills**: 
