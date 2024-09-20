@@ -21,7 +21,7 @@ Python, SQL, R
 **Libraries/Tools**: Tableau, ggplot2, Matplotlib, Seaborn  
 
 #### 🤖 **Machine Learning & Predictive Modeling**:
-- **Algorithms**: K-Means Clustering, Decision Trees, Random Forest, Logistic Regression, Linear Regression  
+- K-Means Clustering, Decision Trees, Random Forest, Logistic Regression, Linear Regression  
 - **Libraries**: Scikit-learn, Statsmodels  
 
 #### 📝 **Natural Language Processing (NLP)**:
