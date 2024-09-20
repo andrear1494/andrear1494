@@ -1,13 +1,17 @@
-## 👋 Hi, I'm Andrea!
+## Data Analyst | Insights Specialist | Data Science Enthusiast
 
-## 🚀 About Me
-🎓 Graduate of the LSE Data Analytics Postgraduate Programme  with academic background in Transport planning 
+### 👋 Hi, I'm Andrea!
+
+### 🚀 About Me
+🎓 LSE Data Analytics Postgraduate Programme Graduate  
 🔍 Passionate about uncovering actionable insights and solving complex problems through data  
 💼 Hands-on experience in data analysis and visualization to support decision-making  
-🧠 Skilled in **Python, R , SQL,Excel,Tableau, SPSS**, with a deep interest in machine learning and AI  
+🧠 Skilled in **Python, R, SQL, Excel, Tableau, SPSS**, with a deep interest in machine learning and AI  
+🎓 MSc in Transport Planning and Management
 
-## 🔧 Technical Skills
-#### 🖥️ **Languages**:
+
+### 🔧 Technical Skills
+#### 🖥️ **Languages**: 
 Python, SQL, R  
 
 #### 📊 **Data Analysis & Manipulation**:
@@ -29,13 +33,13 @@ Git, GitHub
 #### 🛢️ **Databases**:
 PostgreSQL  
 
-🚀 **Recent Project**: 
-- Delivered actionable insights for **PureGym**, leveraging advanced data analytics to help optimize timetable across 10 of their centres and their marketing strategies. 
 
 
-## 🤝 Let's connect 
+### 🤝 Let's connect 
 - 👜 [LinkedIn](https://www.linkedin.com/in/andrea-rossi-4402a8177/)
 - 📧 [Email](mailto:rossiandmail@gmail.com)
+
+
 
 <!--
 **andrear1494/andrear1494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
