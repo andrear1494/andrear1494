@@ -1,23 +1,37 @@
 ## 👋 Hi, I'm Andrea!
 
 ## 🚀 About Me
-🎓 Graduate of the LSE Data Analytics Postgraduate Programme  
+🎓 Graduate of the LSE Data Analytics Postgraduate Programme  with academic background in Transport planning 
 🔍 Passionate about uncovering actionable insights and solving complex problems through data  
 💼 Hands-on experience in data analysis and visualization to support decision-making  
-💡 Strong background in **Python, Excel SQL, Tableau, SPSS**, with a deep interest in machine learning and AI  
+🧠 Skilled in **Python, R , SQL,Excel,Tableau, SPSS**, with a deep interest in machine learning and AI  
 
-🔧 **Technical Skills**: 
-- **Languages**: Python, SQL, R  
-- **Data Analysis**: Pandas, NumPy, SPSS, Tidyverse, MS Excel  
-- **Visualization**: Tableau, ggplot2, Matplotlib, Seaborn  
-- **Machine Learning & Predictive Modeling**:  
-  - **Algorithms**: K-Means Clustering, Decision Trees, Random Forest, Logistic Regression, Linear Regression  
-  - **Libraries**: Scikit-learn, Statsmodels
-- **NLP**: TextBlob, VADER, spaCy  
-- **Version Control**: Git, GitHub  
-- **Databases**: PostgreSQL
+## 🔧 Technical Skills
+#### 🖥️ **Languages**:
+Python, SQL, R  
 
-🚀 **Recent Project**: Delivered actionable insights for **PureGym**, leveraging advanced data analytics to help optimize timetable across 10 of their centres and their marketing strategies. 
+#### 📊 **Data Analysis & Manipulation**:
+**Libraries/Tools**: Pandas, NumPy, Tidyverse, SPSS, MS Excel  
+
+#### 📈 **Data Visualization**:
+**Libraries/Tools**: Tableau, ggplot2, Matplotlib, Seaborn  
+
+#### 🤖 **Machine Learning & Predictive Modeling**:
+- **Algorithms**: K-Means Clustering, Decision Trees, Random Forest, Logistic Regression, Linear Regression  
+- **Libraries**: Scikit-learn, Statsmodels  
+
+#### 📝 **Natural Language Processing (NLP)**:
+**Libraries/Tools**: NLTK, TextBlob, VADER, spaCy  
+
+#### 🗂️ **Version Control**:
+Git, GitHub  
+
+#### 🛢️ **Databases**:
+PostgreSQL  
+
+🚀 **Recent Project**: 
+- Delivered actionable insights for **PureGym**, leveraging advanced data analytics to help optimize timetable across 10 of their centres and their marketing strategies. 
+
 
 ## 🤝 Let's connect 
 - 👜 [LinkedIn](https://www.linkedin.com/in/andrea-rossi-4402a8177/)
