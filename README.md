@@ -2,7 +2,7 @@
 ## Data Analyst | Insights Specialist | Data Science Enthusiast
 
 ### 🚀 About Me
-🎓 LSE Data Analytics Postgraduate Programme Graduate with High Distinction
+🎓 LSE Data Analytics Postgraduate Programme Graduate 
 🔍 Passionate about uncovering actionable insights and solving complex problems through data  
 💼 Hands-on experience in data analysis and visualization to support decision-making  
 🧠 Skilled in **Python, R, SQL, Excel, Tableau, SPSS**, with a deep interest in **machine learning** and **AI**  
