@@ -2,11 +2,12 @@
 ## Data Analyst | Insights Specialist | Data Science Enthusiast
 
 ### 🚀 About Me
-🎓 LSE Data Analytics Postgraduate Programme Graduate 
+🎓 LSE Data Analytics Postgraduate Programme Graduate with High Distinction  
 🔍 Passionate about uncovering actionable insights and solving complex problems through data  
-💼 Hands-on experience in data analysis and visualization to support decision-making  
+💼 Hands-on experience in **data analysis** and **visualization** to support decision-making  
 🧠 Skilled in **Python, R, SQL, Excel, Tableau, SPSS**, with a deep interest in **machine learning** and **AI**  
-🎓 MSc in Transport Planning and Management
+🎓 Holder of an **MSc in Transport Planning and Management**
+
 
 ---
 ### 🔧 My Technical Arsenal
