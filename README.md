@@ -1,6 +1,5 @@
-## Data Analyst | Insights Specialist | Data Science Enthusiast
-
 ### 👋 Hi, I'm Andrea!
+## Data Analyst | Insights Specialist | Data Science Enthusiast
 
 ### 🚀 About Me
 🎓 LSE Data Analytics Postgraduate Programme Graduate  
@@ -10,27 +9,27 @@
 🎓 MSc in Transport Planning and Management
 
 
-### 🔧 Technical Skills
-#### 🖥️ **Languages**: 
+### 🔧 My Technical Arsenal
+#### **Languages**: 
 Python, SQL, R  
 
-#### 📊 **Data Analysis & Manipulation**:
+#### **Data Analysis & Manipulation**:
 **Libraries/Tools**: Pandas, NumPy, Tidyverse, SPSS, MS Excel  
 
-#### 📈 **Data Visualization**:
+#### **Data Visualization**:
 **Libraries/Tools**: Tableau, ggplot2, Matplotlib, Seaborn  
 
-#### 🤖 **Machine Learning & Predictive Modeling**:
+#### **Machine Learning & Predictive Modeling**:
 - K-Means Clustering, Decision Trees, Random Forest, Logistic Regression, Linear Regression  
 - **Libraries**: Scikit-learn, Statsmodels  
 
-#### 📝 **Natural Language Processing (NLP)**:
+#### **Natural Language Processing (NLP)**:
 **Libraries/Tools**: NLTK, TextBlob, VADER, spaCy  
 
-#### 🗂️ **Version Control**:
+#### **Version Control**:
 Git, GitHub  
 
-#### 🛢️ **Databases**:
+#### **Databases**:
 PostgreSQL  
 
 
@@ -40,6 +39,7 @@ PostgreSQL
 - 📧 [Email](mailto:rossiandmail@gmail.com)
 
 
+Check out my pinned project below to see how I can bring your data to life! 
 
 <!--
 **andrear1494/andrear1494** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
