@@ -9,7 +9,6 @@
 🎓 MSc in Transport Planning and Management
 
 ---
-
 ### 🔧 My Technical Arsenal
 
 #### **Languages**:  
@@ -37,7 +36,6 @@
 - PostgreSQL  
 
 ---
-
 
 ### 🤝 Let's connect 
 - 👜 [LinkedIn](https://www.linkedin.com/in/andrea-rossi-4402a8177/)
