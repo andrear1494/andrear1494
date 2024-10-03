@@ -31,7 +31,7 @@
 - **Libraries/Tools**: NLTK, TextBlob, VADER, spaCy  
 
 #### **Version Control**:  
-- Git, GitHub  
+- GitHub  
 
 #### **Databases**:  
 - PostgreSQL  
